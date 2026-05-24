@@ -1,0 +1,14 @@
+pyalex
+pandas
+torch
+sentence-transformers
+scikit-learn
+tqdm
+numpy
+matplotlib
+seaborn
+scipy
+networkx
+pymc
+pytensor
+arviz
